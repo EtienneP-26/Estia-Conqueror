@@ -1,0 +1,35 @@
+{
+    "armes" : {
+        "baton" : {
+            "nom" : "baton",
+            "dégats" : 2,
+            "durabilités" : 10
+        },
+        "le Saint Baton" : {
+            "nom": "le Saint Baton",
+            "dégats": 10,
+            "durabilités": 100
+        },
+        "baton à pointe" : {
+            "nom": "baton à pointe",
+            "dégats": 4,
+            "durabilités": 20
+        }
+    },
+    "armures" : {
+        "manteau": {
+            "nom": "manteau",
+            "defence": 5
+        },
+        "cotte de mailles": {
+           "nom": "cotte de mailles",
+           "defence": 10
+        }
+    },
+    "consommables" : {
+        "pomme" : {
+            "nom" : "pomme",
+            "" : 5
+        }
+    }
+}

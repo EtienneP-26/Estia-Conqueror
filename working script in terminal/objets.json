@@ -1,0 +1,26 @@
+{
+    "armes" : {
+        "baton" : {
+            "nom" : "baton",
+            "degats" : 2
+        },
+        "le Saint Baton" : {
+            "nom": "le Saint Baton",
+            "degats": 10
+        },
+        "baton à pointe" : {
+            "nom": "baton à pointe",
+            "degats": 4
+        }
+    },
+    "armures" : {
+        "manteau": {
+            "nom": "manteau",
+            "defence": 5
+        },
+        "cotte de mailles": {
+           "nom": "cotte de mailles",
+           "defence": 10
+        }
+    }
+}
